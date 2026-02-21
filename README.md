@@ -1,2 +1,10 @@
 # beginner-data-projects
-My journey into Data Analysis. Projects using Excel and Python.
+Welcome to my data analysis journey.
+This respository contains my beginner projects using:
+
+-Microsoft Excel
+
+-python(coming soon)
+
+I am building my skills consistently and documenting my growth.
+
